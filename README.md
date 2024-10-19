@@ -12,7 +12,6 @@ You can view the live version of the website [here](https://cafe-portfolio.verce
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -57,10 +56,6 @@ To run the project locally, follow these steps:
 ## Usage
 
 Once the development server is running, open your web browser and visit `http://localhost:3000` to view the website.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## License
 
